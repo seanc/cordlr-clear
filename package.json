@@ -1,0 +1,24 @@
+{
+  "name": "cordlr-clear",
+  "description": "Cordlr clear message plugin",
+  "version": "0.1.0",
+  "homepage": "https://github.com/seanc/cordlr-clear",
+  "author": "Sean Wilson (https://imsean.me)",
+  "repository": "seanc/cordlr-clear",
+  "bugs": {
+    "url": "https://github.com/seanc/cordlr-clear/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "keywords": [
+    "cordlr"
+  ]
+}
